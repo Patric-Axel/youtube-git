@@ -1,0 +1,1 @@
+3ER COMMIT se creo un archivo txt en local  y se hara un push para enviar al remoto
